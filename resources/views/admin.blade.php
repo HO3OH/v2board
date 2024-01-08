@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <link rel="icon" href="/assets/admin/favicon.png">
     <link rel="stylesheet" href="/assets/admin/components.chunk.css?v={{$version}}">
     <link rel="stylesheet" href="/assets/admin/umi.css?v={{$version}}">
     <link rel="stylesheet" href="/assets/admin/custom.css?v={{$version}}">
